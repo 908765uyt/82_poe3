@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class PrintEven {
+public class even {
     public static void main(String[] args){
         
         int limit, i;
